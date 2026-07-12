@@ -18,6 +18,8 @@ jobs:
           g++-12 \
           autoconf \
           automake \
+          autotools-dev \
+          autopoint \
           libtool \
           pkg-config \
           libssl-dev \
